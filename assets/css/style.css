@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* title for image added in html */
 .hero {
     height: 800px;
     width: 100%;
@@ -91,22 +92,14 @@ p {
     color: #ffffff;
 }
 
-
+/*some classes here were removed as they were redundant */
 
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
+/*.benefit-brand h3 and b-c h3 were removed, redundant. */ 
 
 .benefit-lead img {
     display: block;
@@ -114,17 +107,8 @@ p {
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+/*benefit-brand and b-i removed, redundant */
 
 .search-engine-optimization {
     margin-bottom: 20px;
