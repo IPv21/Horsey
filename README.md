@@ -2,14 +2,13 @@
 
 The point of this project is to simulate a real world tast given to junior developers. We must add accessability attributes, as well as not changes in CSS, as well as clean up the code and make it as neat as possible. 
 
-3 TOC
+4 link https://ipv21.github.io/Horsey/
 
-4 link
+5 The code is now a little cleaners, and there are image descriptions to accompany the images. 
 
-5 how to use
+6 I'd like to thank everyone that has been active on Slack, sharing notes and trying to get each other to the best possible outcome. 
 
-6 credits
+7 MIT License 
 
-7 license 
-
-8 badges
+8 
+🦡
