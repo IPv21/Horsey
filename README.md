@@ -12,3 +12,4 @@ The point of this project is to simulate a real world tast given to junior devel
 
 8 
 🦡
+![horse](https://github.com/IPv21/Horsey/assets/132957361/3c5b644e-6514-4dec-a03b-4ca374afa820)
